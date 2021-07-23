@@ -34,5 +34,7 @@ And the code is pushed in [repository](https://github.com/keerthivijayan/CoinDCX
 
 ```sh
 run TestNG.xml
+
+if the captcha is available, manual execution to be done. 
 ```
 
